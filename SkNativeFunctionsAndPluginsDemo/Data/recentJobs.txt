@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Software Engineer",
+    "company": "TechNova Solutions",
+    "rank": "Engineer"
+  },
+  {
+    "title": "Data Analyst",
+    "company": "InsightCorp",
+    "rank": "Associate"
+  },
+  {
+    "title": "Product Manager",
+    "company": "InnovateX",
+    "rank": "Lead"
+  },
+  {
+    "title": "DevOps Engineer",
+    "company": "CloudBridge",
+    "rank": "Senior Engineer"
+  },
+  {
+    "title": "UX Designer",
+    "company": "Creative Labs",
+    "rank": "Principal Designer"
+  }
+]
