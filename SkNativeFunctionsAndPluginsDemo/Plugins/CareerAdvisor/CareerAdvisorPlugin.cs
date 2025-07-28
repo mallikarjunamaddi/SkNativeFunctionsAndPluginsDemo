@@ -16,7 +16,7 @@ namespace SkNativeFunctionsAndPluginsDemo.Plugins.CareerAdvisor
         }
 
         [KernelFunction, Description("Add a new job to the user's career list")]
-        public static string AddNewJob(
+        public static string AddNewJobTitle(
                 [Description("User's Job Title")] string title,
                 [Description("Company Name")] string company,
                 [Description("Rank of the job title")] string rank
@@ -40,7 +40,7 @@ namespace SkNativeFunctionsAndPluginsDemo.Plugins.CareerAdvisor
                 )
             );
             
-            return $"Added new job {title}";
+            return $"Added new job title - {title}";
         }
     }
 }
